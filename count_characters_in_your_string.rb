@@ -3,6 +3,7 @@
 # What if the string is empty? Then the result should be empty object literal, {}.
 
 
+
 # MY solutions
 
 def count_chars(s)
